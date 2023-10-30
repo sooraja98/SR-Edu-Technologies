@@ -37,7 +37,7 @@ Create a .env file in the project's root directory to store your environment var
 
 makefile
 Copy code
-PORT=5000
+PORT=8080
 MONGODB_URI=mongodb://localhost/yourdatabasename
 Replace yourdatabasename with the name of your MongoDB database.
 
